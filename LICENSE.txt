@@ -1,43 +1,57 @@
-Copyright (c) 2024 Elijah Siita / VidllQ Authority
-VAGE Engine is a fully proprietary custom game engine developed internally. All code, features, systems, tools, and branding are created and maintained by SitizenFX under the authority of Sfx.re Limited.
+VAGE Engine – A Custom Fork of Godot
+Copyright (c) 2024 SitizenFX (Elijah Siita / VidllQ Authority)
 
-──────────────────────────────────────────────
+Use of this source code is subject to the terms provided on the SitizenFX
+Collective website, currently version 1, available at:
 
-VAGE ENGINE LICENSE – SitizenFX Proprietary
+https://vageengine.sitizenfx.net/terms
 
-──────────────────────────────────────────────
+The following files, as long as they are marked as licensed under the
+Godot Engine license, are optionally available under the MIT License,
+as in the legacy notice below, as of the time of this writing:
 
-All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by SitizenFX are the exclusive intellectual property of SitizenFX / Sfx.re.
+core/
+editor/
+modules/
+platform/
+scene/
+tools/
+scripts/
 
-This includes, but is not limited to:
-- Core engine source code and internal systems
-- Custom gameplay mechanics and scripts
-- Build tools, configuration systems, and deployment pipelines
-- UI/UX enhancements and proprietary interfaces
-- Branding, logos, and product names associated with VAGE Engine
+When using other components, please review the SitizenFX Proprietary License terms.
 
-You are NOT permitted to:
-- Use VAGE Engine or its code outside SitizenFX / Sfx.re without written permission
-- Redistribute, publish, or upload any part of VAGE Engine publicly
-- Modify, decompile, reverse-engineer, or tamper with proprietary components
-- Share it with third parties without explicit authorization
+This project is based on the original Godot Engine framework by the Godot contributors.
+The original permission notice is reproduced below for legacy components.
+Please note that this notice does NOT apply to any changes made since the fork.
 
-This software is for internal or authorized use only by SitizenFX / Sfx.re.
-Unauthorized use, distribution, or tampering may result in legal enforcement under applicable copyright law.
+---
 
-Protected under Zambian copyright law and international treaties (Berne Convention).
+MIT License (for legacy Godot components only)
+Copyright (c) 2007-2024 Godot Engine contributors
 
-──────────────────────────────────────────────
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
 
-NOTICE
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
 
-──────────────────────────────────────────────
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-If VAGE Engine appears publicly, on the internet, or in leaked form, SitizenFX / Sfx.re is not responsible.
-Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.
+---
+
+SitizenFX Proprietary Notice
+All modifications, new modules, scripts, UI, tools, SDKs, and branding created
+since the fork are the exclusive property of SitizenFX / Elijah Siita (VidllQ Authority).
+
+Unauthorized use, redistribution, or tampering with proprietary components is prohibited
+and protected under international copyright law (including the Berne Convention).
 
 Use of VAGE Engine implies full agreement to these terms.
-
-──────────────────────────────────────────────
-
-End of License
