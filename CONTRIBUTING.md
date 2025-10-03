@@ -1,4 +1,4 @@
-*# Contributors guidelines
+# Contributors guidelines
 
 This document summarizes the most important points for people interested in
 contributing to Godot, especially via bug reports or pull requests.
