@@ -28,7 +28,7 @@ This engine is not open-source. Any use, redistribution, modification, or revers
 
 ## License
 
-This engine is governed by the VAGE Engine – Private Game Engine License, Version 1.0 (August 1, 2024). All modifications, enhancements, and new systems created by SitizenFX / Sfx.re are proprietary and restricted.
+This engine is governed by the VAGE Engine – Private Game Engine License, Version 1.0 (August 1, 2025). All modifications, enhancements, and new systems created by SitizenFX / Sfx.re are proprietary and restricted.
 
 - Full license details: See `LICENSE` file  
 - Governing law: Zambia
