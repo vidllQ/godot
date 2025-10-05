@@ -1,5 +1,5 @@
 VAGE Engine – A Custom Fork of Godot
-Copyright (c) 2024 SitizenFX (Elijah Siita / VidllQ Authority)
+Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)
 
 Use of this source code is subject to the terms provided on the SitizenFX
 Collective website, currently version 1, available at:
