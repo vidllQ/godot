@@ -1,6 +1,3 @@
-## Private / Proprietary Badge
-![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
-
 # ⚠️ VAGE Engine – Private Game Engine
 
 Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)
